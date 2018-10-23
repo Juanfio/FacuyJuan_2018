@@ -1,0 +1,12 @@
+Centralized nucleation in online networks leads to high social inequality
+
+Abstract
+la medida de centralidad para diversas redes sociales es muy heterogénea y no se sabe hasta que punto es crucial para la estabilidad de la red. En la literatura se muestra que las redes poseen un nucleo muy conectado y una escasa capa (escudo) externa. Preguntas: But to what extent is the existence of this nucleus crucial for the survival of a network? To what extent is the outer shells’ much larger population essential to the longevity of the network?
+Tambien, a medida que la red crece y se desarrolla, su estructura debe ser dependiente de los cambios en la centralidad de grado. Pregunta: What is the role of social mobility in the formation of the nucleus-to-periphery profile, and is it related to network lifetime? 
+En el paper se estudian mas de 10000 redes de comunidades y se obtiene que:
+i) La movilidad social es negativa
+ii) Mientras mas grande la movilidad social de los miembros de la red, mayor la longevidad y estabilidad de la misma
+iii) La red queda compuesta por dos fases, una nube grande de acotres escasamente conectados rodeando a un nucleo interno altamente estable
+iv) Redes de comunidades que mantienen una relacion especifica de nucleo-al-perimetro tienen mas chances de sobrevivir
+
+
